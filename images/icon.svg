@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="179.31" height="179.31"
+     viewBox="0 0 179.31 179.31">
+  <defs>
+    <style>
+      .cls-1{fill:#e1a830;}.cls-2{fill:#404040;fill-rule:evenodd;}.cls-3{fill:none;stroke:#ed1c24;stroke-miterlimit:10;stroke-width:7px;}
+    </style>
+  </defs>
+  <circle class="cls-1" cx="89.65" cy="89.65" r="86.15"/>
+  <path class="cls-2"
+        d="M60.85,45.53l-29.65,38H65.28l14.93-38Zm29.82,0-15,38h48.6l-15-38Zm29.12,0,14.93,38H168.8l-29.65-38ZM31.51,94.45l54.05,63.06L65.14,94.45H31.51Zm43.89,0,24.6,76,24.61-76Zm59.47,0-20.43,63.06,54.05-63.06H134.87Z"
+        transform="translate(-10.35 -10.35)"/>
+  <circle class="cls-3" cx="89.65" cy="89.65" r="86.15"/>
+  <line class="cls-3" x1="28.73" y1="28.73" x2="150.57" y2="150.57"/>
+</svg>
